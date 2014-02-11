@@ -1,5 +1,5 @@
 C++ HTML parser
-~~~~~~~~~~~~~~~
+===============
 
 Simple HTML parser written in C++.
 
