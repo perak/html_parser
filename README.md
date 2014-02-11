@@ -5,7 +5,7 @@ Simple HTML parser written in C++.
 
 You should know:
 
-- This is NOT fastest HTML parser
+- This is NOT the fastest HTML parser
 
 - It parses only valid and well-formed HTML documents
 
